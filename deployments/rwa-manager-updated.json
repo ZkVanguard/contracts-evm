@@ -1,0 +1,10 @@
+{
+  "chainId": 338,
+  "network": "cronos-testnet",
+  "contracts": {
+    "rwaManagerProxy": "0x1Fe3105E6F3878752F5383db87Ea9A7247Db9189",
+    "rwaManagerImpl": "0x7a9fc8D82f4355E264c8353D3135eC6E485AAF91"
+  },
+  "deployer": "0xb9966f1007E4aD3A37D29949162d68b0dF8Eb51c",
+  "timestamp": "2026-01-16T12:09:29.903Z"
+}

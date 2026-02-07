@@ -1,0 +1,22 @@
+{
+  "network": "cronos-testnet",
+  "chainId": 338,
+  "deployedAt": "2026-02-03T00:00:00.000Z",
+  "deployer": "0xb9966f1007E4aD3A37D29949162d68b0dF8Eb51c",
+  "contracts": {
+    "ZKSTARKVerifier": "0x47812EFFe0Aed4D46C489E002214A05B26b71b0b",
+    "ZKProxyVault": {
+      "proxy": "0x7F75Ca65D32752607fF481F453E4fbD45E61FdFd",
+      "implementation": "0x24B986f00CF93e7962890A0E526A75b502735dfd"
+    }
+  },
+  "configuration": {
+    "guardian": "0xb9966f1007E4aD3A37D29949162d68b0dF8Eb51c",
+    "timeLockThreshold": "10 ETH",
+    "timeLockDuration": "86400 seconds (24 hours)"
+  },
+  "explorerLinks": {
+    "ZKSTARKVerifier": "https://explorer.cronos.org/testnet/address/0x47812EFFe0Aed4D46C489E002214A05B26b71b0b",
+    "ZKProxyVault": "https://explorer.cronos.org/testnet/address/0x7F75Ca65D32752607fF481F453E4fbD45E61FdFd"
+  }
+}

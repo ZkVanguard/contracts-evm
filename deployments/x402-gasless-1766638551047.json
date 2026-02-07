@@ -1,0 +1,10 @@
+{
+  "network": "cronos-testnet",
+  "contractName": "X402GaslessZKCommitmentVerifier",
+  "address": "0x44098d0dE36e157b4C1700B48d615285C76fdE47",
+  "deployer": "0xb9966f1007E4aD3A37D29949162d68b0dF8Eb51c",
+  "timestamp": "2025-12-25T04:55:51.047Z",
+  "usdcToken": "0xc01efAaF7C5C61bEbFAeb358E1161b537b8bC0e0",
+  "feePerCommitment": "10000",
+  "initialCROFunding": "1.0"
+}
