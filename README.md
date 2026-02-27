@@ -1,4 +1,4 @@
-﻿# ZkVanguard Contracts (EVM)
+# ZkVanguard Contracts (EVM)
 
 Solidity smart contracts for ZkVanguard on Cronos zkEVM.
 
@@ -24,17 +24,17 @@ See deployments in main repo.
 - Hardhat
 
 ### Install
-```ash
+```bash
 npm install
 ```
 
 ### Compile
-```ash
+```bash
 npx hardhat compile
 ```
 
 ### Test
-```ash
+```bash
 npx hardhat test
 ```
 
