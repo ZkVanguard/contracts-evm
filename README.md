@@ -1,4 +1,4 @@
-# ZkVanguard Contracts (EVM)
+﻿# ZkVanguard Contracts (EVM)
 
 Solidity smart contracts for ZkVanguard on Cronos zkEVM.
 
@@ -15,7 +15,7 @@ This repository contains the core smart contracts for ZkVanguard's decentralized
 ## Deployments
 
 ### Cronos zkEVM Testnet (Chain ID: 240)
-See [deployments](../ZkVanguard/deployments/) in main repo.
+See deployments in main repo.
 
 ## Development
 
@@ -24,19 +24,19 @@ See [deployments](../ZkVanguard/deployments/) in main repo.
 - Hardhat
 
 ### Install
-`ash
+```ash
 npm install
-`
+```
 
 ### Compile
-`ash
+```ash
 npx hardhat compile
-`
+```
 
 ### Test
-`ash
+```ash
 npx hardhat test
-`
+```
 
 ## Security
 
